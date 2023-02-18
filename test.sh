@@ -1,1 +1,1 @@
-last commit main, произвольное содержимое  ,branch main
+last commit, произвольное содержимое  ,branch conflict 
